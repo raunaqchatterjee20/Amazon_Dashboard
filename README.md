@@ -111,10 +111,10 @@ Average Discount = AVERAGE(Sales[Discount %])
 ### Dashboard Screenshots
 
 ---
+
 <img width="1055" height="601" alt="IMG_0459" src="https://github.com/user-attachments/assets/89a20999-c5a2-49a9-b068-c9485143bee6" />
 <img width="1053" height="597" alt="IMG_0458" src="https://github.com/user-attachments/assets/b358bb2f-459f-4b1e-9c85-9e85a4cee890" />
 <img width="1060" height="597" alt="IMG_0457" src="https://github.com/user-attachments/assets/39f97533-a26f-42f7-b6f6-2ab74439b9c7" />
----
 
 ---
 
