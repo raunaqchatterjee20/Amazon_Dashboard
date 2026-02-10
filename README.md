@@ -160,9 +160,3 @@ Amazon-Sales-Dashboard/
 * Build a mobile-optimized dashboard
 
 ---
-
-If you want, I can:
-
-* Create a **short, recruiter-friendly README**.
-* Generate a **LinkedIn project post**.
-* Write a **Power BI interview explanation** for this dashboard.
