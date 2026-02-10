@@ -151,12 +151,3 @@ Amazon-Sales-Dashboard/
 * Average customer rating remains stable across categories.
 
 ---
-
-### Future Improvements
-
-* Add profit and cost analysis
-* Include customer segmentation
-* Forecast future sales trends
-* Build a mobile-optimized dashboard
-
----
